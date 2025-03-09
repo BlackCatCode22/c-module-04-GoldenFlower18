@@ -1,0 +1,8 @@
+Leo,5,Lion
+Stripe,3,Tiger
+Laughy,2,Hyena
+Grizzle,7,Bear
+Raja,4,Tiger
+Simba,3,Lion
+Shenzi,4,Hyena
+Baloo,6,Bear
